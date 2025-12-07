@@ -1,2 +1,2 @@
 # DataFoundations
-A collection of small datasets and beginner data analysis exercises. 
+A collection of beginner datasets and notebooks for practising data fundamentals.
