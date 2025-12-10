@@ -1,2 +1,2 @@
 # DataFoundations
-A collection of beginner datasets and notebooks for practising data fundamentals.
+A collection of simple datasets and starter notebooks designed to help users understand data structure, cleaning steps and basic analysis.
